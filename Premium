@@ -1,2 +1,2 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Universal-Script/ODPH/refs/heads/main/Premium"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Universal-Script/ODP/refs/heads/main/H"))()
 loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-YARHM-12403"))()
